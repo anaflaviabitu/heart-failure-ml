@@ -1,6 +1,6 @@
 # Classificação de desfechos de insuficiência cardíaca com Machine Learning
 
-Projeto acadêmico em Python que compara três algoritmos supervisionados — **KNN, SVM e MLP** — usando o dataset *Heart Failure Clinical Records*.
+Projeto acadêmico em Python que compara três algoritmos supervisionados **(KNN, SVM e MLP)** usando o dataset *Heart Failure Clinical Records*.
 
 > **Aviso:** este projeto é exclusivamente educacional e experimental. Não é uma ferramenta para diagnóstico, prognóstico ou tomada de decisão clínica.
 
